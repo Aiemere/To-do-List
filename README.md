@@ -10,4 +10,4 @@ You can edit a task by double clicking the task, inputing the new task and then 
 
 You can clear a task by clicking on the clear task button.
 
-The source code can be accessed by clicking on the index and src folder files.
+The source code can be accessed by clicking on the index and src files.

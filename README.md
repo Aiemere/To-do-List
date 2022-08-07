@@ -9,3 +9,5 @@ You can delete a task by clicking on the delete button.
 You can edit a task by double clicking the task, inputing the new task and then cliking the enter button.
 
 You can clear a task by clicking on the clear task button.
+
+The source code can be accessed by clicking on the index and src folder files.
